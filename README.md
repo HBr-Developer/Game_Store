@@ -1,16 +1,12 @@
 # game_store
 
-A new Flutter project.
+![v1](https://user-images.githubusercontent.com/80393682/224149621-d578b544-1d5e-448a-8245-c474bebdd0e5.png)
 
-## Getting Started
+![v2](https://user-images.githubusercontent.com/80393682/224149608-96901e77-3409-4551-839e-905b246ead55.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![v3](https://user-images.githubusercontent.com/80393682/224149615-92aa6b6b-2a79-4324-b975-9368e6e4bc57.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+by H'BR DEVELOPER
